@@ -19,4 +19,4 @@ Open the scraping_challenge_03.py file on a Python IDE (PyCharm, VSCode) and run
 
 ## Result
 
-![alt text]()
+![alt text](https://github.com/Niels-Patrick/Scraping_Challenges/blob/main/Scraping_Challenge_04/SC04.png)
