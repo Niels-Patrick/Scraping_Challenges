@@ -6,11 +6,16 @@ This is a scraping program of the [Quotes to Scrapes](https://quotes.toscrape.co
 
 Two packages are needed:
 - Selenium
+- Webdriver Manager
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Selenium.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Selenium and Webdriver Manager.
 
 ```bash
 pip install selenium
+```
+
+```bash
+pip install webdriver-manager
 ```
 
 ## Usage
