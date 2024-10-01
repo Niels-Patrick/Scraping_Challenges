@@ -21,3 +21,7 @@ pip install beautifulsoup4
 ## Usage
 
 Open the scraping_challenge_02.py file on a Python IDE (PyCharm, VSCode) and run it. The result is printed in the command console.
+
+## Result
+
+![alt text](https://github.com/Niels-Patrick/Scraping_Challenges/blob/main/Scraping_Challenge_02/TESTON_Niels-Patrick_SC02.png)
