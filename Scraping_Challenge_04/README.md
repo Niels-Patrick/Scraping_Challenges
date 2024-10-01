@@ -1,11 +1,12 @@
-# Scraping Challenge 03
+# Scraping Challenge 04
 
-This is a scraping program of the [Quotes to Scrapes](https://quotes.toscrape.com/scroll) website that displays, in the command console, the total number of quotes of the website.
+This is a scraping program of the [Quotes to Scrapes](https://quotes.toscrape.com/js/page/10/) website that displays, in the command console, the first quote of the list.
 
 ## Package requirements
 
 Two packages are needed:
 - Selenium
+- Webdriver Manager
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Selenium.
 
@@ -13,9 +14,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Seleniu
 pip install selenium
 ```
 
+```bash
+pip install webdriver-manager
+```
+
 ## Usage
 
-Open the scraping_challenge_03.py file on a Python IDE (PyCharm, VSCode) and run it. The result is printed in the command console.
+Open the scraping_challenge_04.py file on a Python IDE (PyCharm, VSCode) and run it. The result is printed in the command console.
 
 ## Result
 
