@@ -8,7 +8,7 @@ Two packages are needed:
 - Selenium
 - Webdriver Manager
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Selenium.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Selenium and Webdriver Manager.
 
 ```bash
 pip install selenium
