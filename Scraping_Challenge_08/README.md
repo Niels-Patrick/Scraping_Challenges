@@ -24,4 +24,4 @@ Open the scraping_challenge_08.py file on a Python IDE (PyCharm, VSCode) and run
 
 ## Result
 
-![alt text]()
+![alt text](https://github.com/Niels-Patrick/Scraping_Challenges/blob/main/Scraping_Challenge_08/SC08.png)
